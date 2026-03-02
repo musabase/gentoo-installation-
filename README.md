@@ -76,6 +76,18 @@ is available here:
 
 ---
 
+## Desktop Environment (After Installation)
+
+Once the base Gentoo system is installed, the next logical step is setting up a desktop environment.
+
+Currently available:
+
+- [XFCE on Gentoo](desktop-environments/xfce.md)
+
+More desktop environment notes may be added in the future.
+
+---
+
 ## References
 
 - Gentoo Handbook (Official): https://wiki.gentoo.org/wiki/Handbook:Main_Page  
