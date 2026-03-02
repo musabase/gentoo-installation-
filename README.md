@@ -78,5 +78,5 @@ is available here:
 
 ## References
 
-- Gentoo Handbook (Official): https://wiki.gentoo.org/wiki/Handbook:Main_Page :contentReference[oaicite:1]{index=1}  
-- Gentoo Wiki: https://wiki.gentoo.org/wiki/Main_Page :contentReference[oaicite:2]{index=2}
+- Gentoo Handbook (Official): https://wiki.gentoo.org/wiki/Handbook:Main_Page  
+- Gentoo Wiki: https://wiki.gentoo.org/wiki/Main_Page
